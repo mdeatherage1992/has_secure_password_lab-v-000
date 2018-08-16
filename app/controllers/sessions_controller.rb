@@ -17,4 +17,4 @@ def destroy
   redirect to '/'
 end
 
-end 
+end
